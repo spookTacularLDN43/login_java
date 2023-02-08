@@ -1,4 +1,4 @@
-package it.login;
+package it.login.model;
 
 public class User {
     private String login;
